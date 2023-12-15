@@ -21,4 +21,14 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+    <family customizationType="new-named-family" name="manrope">
+        <font weight="400" style="normal">Manrope-Regular.ttf</font>
+        <font weight="400" style="italic">Manrope-Italic.ttf</font>
+        <font weight="500" style="normal">Manrope-Medium.ttf</font>
+        <font weight="500" style="italic">Manrope-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Manrope-Bold.ttf</font>
+        <font weight="700" style="italic">Manrope-BoldItalic.ttf</font>
+    </family>
+    <alias name="manrope-medium" to="rubik" weight="500" />
+    <alias name="manrope-bold" to="rubik" weight="700" />
 </fonts-modification>
